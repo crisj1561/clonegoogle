@@ -104,3 +104,25 @@ main .main-input .micro-icon{
     height: 18px;
     cursor: pointer;    
 }
+
+main .main-button div{
+    display: inline-block;
+}
+
+main .main-button button{
+    height: 36px;
+    background-color: #f2f2f2;
+    border: none;
+    font-size: 14px;
+    color: #5f6368;
+    border-radius: 5px;
+    padding: 0 15px;
+    margin-right: 15px;
+}
+
+
+main .main-button button:hover{
+    box-shadow: 0 1px 1px 0 #959697;
+    border: 1px solid;
+    border-color: #c6c6c6 ;
+}
