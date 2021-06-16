@@ -47,6 +47,7 @@ nav .nav-right-section img{
 main{
     margin-top: 150px;
     text-align: center;
+    min-height: 66vh;
 }
 
 main .main-logo{
@@ -131,6 +132,10 @@ main p a{
     text-decoration: none;
 }
 
+footer{
+    width: 100%;
+
+}
 footer .country{
     width: 100%;
     height: 50px;
